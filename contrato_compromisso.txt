@@ -1,0 +1,5 @@
+1-Zero celular na aula: Celular guardado e no silencioso durante todo o horário de aula do projeto.
+2-Foco total: Manter apenas o VS Code e a atividade abertos, sem distrações paralelas.
+3-Combinado com a dupla: Definir em 5 minutos o que cada um faz na aula e manter o ritmo junto.
+4-Salvar e anotar: Testar, salvar tudo na techflow_core e anotar onde paramos antes do fim da aula.
+5-Prazo com folga: Fechar o principal 2 dias antes de 08/12 para revisar e pedir ajuda rápido se travar.
